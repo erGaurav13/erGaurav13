@@ -1,4 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966)](https://erGaurav13.io)
+
+<img src="https://www.canva.com/design/DAFT5_Fu4AI/sJkdLy_WBAFo2_mfiEekaA/edit?utm_content=DAFT5_Fu4AI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
