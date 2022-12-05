@@ -33,8 +33,8 @@
   <img align="center"  src="https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png" width="40px" height="40px"/>
   <img align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwoQOKaEC2yGqs3Qt7cM-m4AGON6PeUEc81wnzHh-igFMBptr8uhyyEx0YGAm485M_LI&usqp=CAU" width="40px" height="40px"/>
   <img align="center"  src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" width="40px" height="40px"/>
-  <img align="center"  src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="40px" height="40px"/>
-  <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="40px" height="40px"/>
+  <img align="center"  src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark-thumbnail.png" width="40px" height="40px"/>
+  <img align="center"  src="https://g.foolcdn.com/art/companylogos/square/mdb.png" width="40px" height="40px"/>
   <img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px" height="40px"/>
 </p>
 
