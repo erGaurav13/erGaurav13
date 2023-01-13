@@ -44,7 +44,7 @@
 <h3>📊 Github Stats</h3>
 <p align="center">
    <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erGaurav13&show_icons=true&locale=en&theme=dark"/>
+   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ergaurav13&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 <h3 align="center"> 
   Visitor count <br>
@@ -52,8 +52,8 @@
 </h3>
 <h3>Most Language Used</h3>
 
-<div>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ergaurav13&theme=dark"  height="255px" width="70%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erGaurav13&theme=dark" height="255px" width="70%"/>
+<div  }>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ergaurav13&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" height="255px" width="70%"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erGaurav13&theme=dark" height="255px" width="70%"/>
 <div>
 
