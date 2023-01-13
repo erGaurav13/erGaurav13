@@ -53,7 +53,7 @@
 <h3>Most Language Used</h3>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erGaurav13&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ergaurav13&theme=dark"  height="255px" width="70%" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erGaurav13&theme=dark" height="255px" width="70%"/>
 <div>
 
