@@ -55,5 +55,6 @@
 <div  }>
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ergaurav13&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" height="255px" width="70%"  />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erGaurav13" height="255px" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erGaurav13&theme=dark">
 <div>
 
